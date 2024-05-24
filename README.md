@@ -33,9 +33,15 @@ Example
 
 Step 4: Delete QB-Vehiclekeys
 
+Step 5: Open Visual Studio Code, Open Folder, select your resource folder, and on the 2nd tab on the left make sure the top one says qb-vehiclekeys and the bottom ky-vehiclekeys
+
+Every script you add that has stuff to do with vehiclekeys make sure you change to ky-vehiclekeys
+
 All Done!
 
-Any bugs you find contact me on discord
+Tried to explain it the best i can
+
+Any bugs / help you find contact me on discord
 
 solo_capestick
 
