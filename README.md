@@ -25,11 +25,11 @@ Step 1: Drag Into Scripts Folder Or Wherever you want it placed
 
 Step 2: Install All Dependencies And Make Sure They Start First 
 
-EX
-ensure ps-ui
-ensure lab-TextUI
-ensure cdn-fuel
-ensure ky-vehiclekeys
+Example
+# ensure ps-ui
+# ensure lab-TextUI
+# ensure cdn-fuel
+# ensure ky-vehiclekeys
 
 Step 4: Delete QB-Vehiclekeys
 
