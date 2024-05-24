@@ -24,6 +24,7 @@ HOW TO INSTALL
 Step 1: Drag Into Scripts Folder Or Wherever you want it placed
 
 Step 2: Install All Dependencies And Make Sure They Start First 
+
 EX
 ensure ps-ui
 ensure lab-TextUI
