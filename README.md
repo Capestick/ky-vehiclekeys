@@ -2,7 +2,7 @@
 Simple QBCore Vehiclekeys Script
 
 This is a redesign Of the QBCore Vehiclekeys
-This Script Adds
+This Script Ads
 
 PS-UI Circle Minigame
 Text UI For Lockpicking
@@ -18,4 +18,25 @@ https://github.com/CodineDev/cdn-fuel
 
 lab-TextUI
 https://github.com/LabScripts/lab-TextUI
+
+HOW TO INSTALL
+
+Step 1: Drag Into Scripts Folder Or Wherever you want it placed
+
+Step 2: Install All Dependencies And Make Sure They Start First 
+EX
+ensure ps-ui
+ensure lab-TextUI
+ensure cdn-fuel
+ensure ky-vehiclekeys
+
+Step 4: Delete QB-Vehiclekeys
+
+All Done!
+
+Any bugs you find contact me on discord
+
+solo_capestick
+
+Thank You All
 
