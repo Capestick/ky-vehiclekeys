@@ -8,6 +8,9 @@ PS-UI Circle Minigame
 Text UI For Lockpicking
 Custom Fuel Settings, EX If Fuel Runs Out TO 0 The Car Will Not Move! Can NOT be disabled unless you know what your doing
 
+Preview
+https://streamable.com/5f1blh
+
 Dependencies
 
 PS-UI
